@@ -1,0 +1,11 @@
+KLEncoder library only for product "Rotary Encoder Module" from KLINIK LED . 
+
+for information.
+Email		: info@mandatera.id
+		: malihmisbahudin@gmail.com
+WhattsApp	: +6285 33333 1343
+Product name	: Rotary Encoder Module
+Tokopedia	: Klinik Led
+
+
+This product easy to use , because data output now have CW data, CCW data and SW data(for button).
