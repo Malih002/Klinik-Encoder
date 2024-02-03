@@ -1,0 +1,2 @@
+# Library-Arduino
+# Klinik-Encoder
